@@ -13,7 +13,9 @@ I made this homepage for my girlfriend, in purpose of recording some memorizable
 
 ## Demo
 
-Click here to review the website! ❤️
+[Click here to review the website!](https://sylvanding.github.io/zdxlovedjx) ❤️
+
+[https://sylvanding.github.io/zdxlovedjx](https://sylvanding.github.io/zdxlovedjx)
 
 ## Features
 
